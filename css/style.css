@@ -1,0 +1,32 @@
+.my_bg {
+    background-color: orange;
+}
+
+.img {
+    width: 250px;
+    border-radius: 138px;
+}
+
+.my_name_burger {
+    color: gray;
+}
+
+.my_img {
+    width: 100px;
+    color: gray;
+}
+
+.add {
+    color: red;
+}
+
+#coupon {
+    width: 100%;
+    border-radius: 10px;
+    color: gray;
+    background-color: lightyellow;
+}
+
+.bg_magenta {
+    background-color: magenta;
+}
